@@ -1,2 +1,2 @@
-# Coding_Minutes_C-
+# Coding_Minutes_Cpp
 Solutions to Coding Minutes Cpp exercises
